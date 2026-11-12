@@ -40,11 +40,6 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
-  links:
-    markdownLinkResolution: shortest
-  contentIndex:
-    enableSiteMap: true
-    enableRSS: true
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -68,25 +63,21 @@ plugins:
     options:
       enableInHtmlEmbed: false
       enableCheckbox: true
-      comments: true
-      highlight: true
-      wikilinks: true
-      callouts: true
-      mermaid: true
-      parseTags: true
-      parseBlockReferences: true
-      enableYouTubeEmbed: true
-      enableVideoEmbed: true
-    order: 40
+    order: 30
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
-    order: 30
+    order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
     order: 50
     layout:
       position: right
       priority: 30
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+    order: 60
   - source: "@quartz-community/description"
     enabled: true
     order: 70
@@ -98,6 +89,9 @@ plugins:
   - source: "@quartz-community/citations"
     enabled: false
     order: 85
+  - source: "@quartz-community/hard-line-breaks"
+    enabled: false
+    order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false
     order: 91
@@ -107,32 +101,21 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
-      theme: its-theme
+      theme: tokyo-night
       mode: both
-      variation: ttrpg-dnd
+  - source: "@quartz-community/remove-draft"
+    enabled: true
   - source: "@quartz-community/explicit-publish"
     enabled: false
-  - source: "@quartz-community/unlisted-pages"
-    enabled: true
-    options: {}
-    order: 45
-  - source: "@quartz-community/encrypted-pages"
-    enabled: true
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
-  - source: "@quartz-community/stacked-pages"
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
   - source: "@quartz-community/alias-redirects"
     enabled: true
+  - source: "@quartz-community/content-index"
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: true
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
@@ -249,22 +232,31 @@ plugins:
         - aliases
       excludedProperties: []
       hidePropertiesView: false
+      delimiters: ---
+      language: yaml
     order: 5
     layout:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:Requiae/quartz-leaflet-bases-plugin
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+    options: {}
+    order: 45
+  - source: "@quartz-community/encrypted-pages"
     enabled: true
     options:
-      enableCopyTool: false
-  - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+    order: 900
+  - source: "@quartz-community/stacked-pages"
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 50
+      display: all
 layout:
   groups:
     toolbar:
@@ -290,3 +282,4 @@ layout:
         right: []
     canvas: {}
     bases: {}
+
