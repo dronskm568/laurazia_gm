@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: dronskm568.github.io/laurazia_gm
+  baseUrl: dronskm568.github.io/lavrazia_gm
   ignorePatterns:
     - private
     - templates
