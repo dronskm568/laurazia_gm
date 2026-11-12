@@ -31,7 +31,7 @@ public_sections: [Вступ, Навігація, Магія, Економіка
 - [Пайок (RU)](/economy/ration-unit.md)
 - [Збоченені міста](burnt-fields.md)
 
->[!gm]### Історія
+>[!gm] ### Історія
 >- [21 рік чорної мани](/history/twenty-one-years-of-black-mana.md)
 >- [Війна та її початок](/history/the-final-year-and-the-fifteen-years-to-its-rise.md)
 >
