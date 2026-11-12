@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Lavrazia for GM
+  pageTitleSuffix: " | Lavrazia"
   enableSPA: true
   enablePopovers: true
   prefetch: viewport
@@ -99,7 +99,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: false
+    enabled: true
     options:
       theme: tokyo-night
       mode: both
