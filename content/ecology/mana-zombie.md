@@ -2,11 +2,9 @@
 title: Мана зомбі
 tags:
   - magic
-  - black-mana
-  - zombie
-  - infection
-  - creature
   - concept
+  - black-mana
+  - ecology
 status: draft
 source: нотатки автора
 ---

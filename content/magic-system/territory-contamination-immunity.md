@@ -1,6 +1,6 @@
 ---
 title: Територійна імунітет до чорної мани
-tags: [magic, immunity, creature-type, concept]
+tags: [magic, immunity, concept, black-mana]
 status: draft
 source: sources/lavrasia-original.docx
 ---

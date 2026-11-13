@@ -1,6 +1,6 @@
 ---
 title: Lab-M4.3
-tags: [facility, mining-complex, underground, dwarves, sealed]
+tags: [facility]
 status: draft
 source: sources/lavrasia-original.docx
 ---

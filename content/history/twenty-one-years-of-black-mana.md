@@ -1,6 +1,6 @@
 ---
 title: 21 рік існування чорної мани
-tags: [history, timeline, black-mana, cataclysm]
+tags: [black-mana, history]
 status: draft
 source: sources/lavrasia-original.docx
 ---

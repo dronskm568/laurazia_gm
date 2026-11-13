@@ -1,6 +1,6 @@
 ---
 title: Метод знищення чорної мани з ґрунту
-tags: [magic, purification, laboratory, draft]
+tags: [magic, laboratory]
 status: draft
 source: sources/lavrasia-original.docx
 ---

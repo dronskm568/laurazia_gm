@@ -1,6 +1,6 @@
 ---
 title: Історія виникнення чорної мани
-tags: [history, dark-mana, research, war]
+tags: [dark-mana, research, war, history]
 status: draft
 source: sources/lavrasia-original.docx
 ---

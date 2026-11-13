@@ -1,6 +1,6 @@
 ---
 title: Двигун життєвої енергії (робоча назва)
-tags: [magic, technology, life-energy, engine]
+tags: [magic]
 status: draft
 source: author
 ---

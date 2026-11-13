@@ -1,6 +1,6 @@
 ---
 title: Lab-S3.2
-tags: [facility, black-mana-laboratory, empirical-research, burnt-field]
+tags: [facility, black-mana-laboratory]
 status: draft
 source: sources/lavrasia-original.docx
 ---

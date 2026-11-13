@@ -1,6 +1,6 @@
 ---
 title: Критерії низької життєвої енергії
-tags: [biology, mana-immunity, magic-system, concept]
+tags: [biology, mana-immunity, magic-system, concept, ecology]
 status: draft
 source: sources/lavrasia-original.docx
 ---

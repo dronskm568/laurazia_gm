@@ -1,6 +1,6 @@
 ---
 title: Використання чорної мани гравцями (Dark Mana Overchannel)
-tags: [magic, rules, dnd, black-mana]
+tags: [magic, black-mana]
 status: draft
 source: sources/lavrasia-original.docx
 ---

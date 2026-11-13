@@ -1,6 +1,6 @@
 ---
 title: Любисток
-tags: [character, scientist, lab-assistant]
+tags: [character, scientist]
 status: draft
 source: author
 ---

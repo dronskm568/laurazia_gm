@@ -1,6 +1,6 @@
 ---
 title: Гондвана
-tags: [geography, continent, distant-land]
+tags: [continent, geography]
 status: draft
 source: sources/lavrasia-original.docx
 ---
