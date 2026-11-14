@@ -39,7 +39,7 @@ gm/concepts/life-energy.md | ⚡ | players/concepts/life-energy.md
 
 gm/ecology/mana-zombie.md | ❌ |
 gm/ecology/mycelium.md | ⚡ | players/ecology/mycelium.md
-gm/ecology/life-energy-low-criteria.md | ❌ |
+gm/ecology/life-energy-low-criteria.md | ✅ |
 
 ---
 
@@ -65,10 +65,12 @@ gm/history/twenty-one-years-of-black-mana.md | ❌ |
 
 ## Лабораторії
 
-gm/facilities/lab-s3-2.md | ❌ |
-gm/facilities/lab-m4-3.md | ❌ |
-gm/facilities/scientists.md | ❌ |
-gm/facilities/documentation.md | ❌ |
+gm/facilities/lab-s3-2.md | ⚡ |
+gm/facilities/lab-m4-3.md | ⚡ |
+gm/facilities/lab-p2-2.md | ⚡ |
+gm/facilities/scientists.md | ⚡ |
+gm/facilities/documentation.md | ✅ |
+gm/facilities/laboratory-supply-protocol | ✅ |
 
 ---
 
@@ -82,8 +84,9 @@ gm/characters/san-shu.md | ✅ | players/characters/san-shu.md
 gm/characters/minerva.md | ✅ | players/characters/minerva.md
 gm/characters/Sally.md | ✅ | players/characters/Sally.md
 gm/characters/сhloe.md | ✅ | players/characters/сhloe.md
-gm/characters/lyubystok.md | ❌ |
-gm/characters/kryuk.md | ❌ |
+gm/characters/lyubystok.md | ✅ |
+gm/characters/kryuk.md | ✅ |
+gm/characters/strobyem.md | ❌ |
 
 ---
 

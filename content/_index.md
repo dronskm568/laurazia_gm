@@ -12,50 +12,53 @@ public_sections: [Вступ, Навігація, Магія, Економіка
 ## Навігація
 
 ### Географія
-- [Лавразія](/geography/lavrasia.md) — головний континент
->[!gm]- [Гондвана](/geography/gondwana.md) — далекі землі
-- [Омніпорт](/geography/omniport.md) — головний порт
-- [Терикон](/geography/terikon.md) — район Омніпорта
-- [Кнокенбах](/geography/knokenbach.md) — шахтарське містечко
->[!gm]- [Великий ліс](/geography/forest.md) — ліс із грибницею та ельфами
->[!gm]- [Поляна Ін](/geography/in-glade.md) — заражена поляна в лісі
+- [[lavrasia|Лавразія]] — головний континент
+>[!gm]- [[gondwana|Гондвана]] — далекі землі
+- [[omniport|Омніпорт]] — головний порт
+- [[terikon|Терикон]] — район Омніпорта
+- [[knokenbach|Кнокенбах]] — шахтарське містечко
+- [[forest|Великий ліс]] — ліс із грибницею та ельфами
+- [[in-glade|Поляна Ін]] — заражена поляна в лісі
 
 ### Магія
-- [Чорна мана](/magic-system/black-mana.md) — основна сила
-- [Сита мана](/magic-system/satiated-mana.md) — підвид
->[!gm]- [Використання чорної мани](/magic-system/black-mana-overchannel.md)
->[!gm]- [Двигун життєвої енергії](/magic-system/life-energy-engine.md)
-- [Імунітет до малих доз](/magic-system/low-life-energy-immunity.md)
+- [[black-mana|Чорна мана]] — основна сила
+- [[satiated-mana|Сита мана]] — підвид
+>[!gm]- [[black-mana-overchannel|Використання чорної мани]]
+>[!gm]- [[life-energy-engine|Двигун життєвої енергії]]
+- [[low-life-energy-immunity|Імунітет до малих доз]]
 
 ### Економіка
-- [Пайок (RU)](/economy/ration-unit.md)
-- [Збоченені міста](burnt-fields.md)
+- [[ration-unit|Пайок (RU)]]
 
 >[!gm] ### Історія
->- [21 рік чорної мани](/history/twenty-one-years-of-black-mana.md)
->- [Війна та її початок](/history/the-final-year-and-the-fifteen-years-to-its-rise.md)
+>- [[twenty-one-years-of-black-mana|21 рік чорної мани]]
+>- [[the-final-year-and-the-fifteen-years-to-its-rise|Війна та її початок]]
 >
 >### Лабораторії
->- [Lab-S3.2](/facilities/lab-s3-2.md)
->- [Lab-M4.3](/facilities/lab-m4-3.md)
+>- [[lab-s3-2|Lab-S3.2]]
+>- [[lab-m4-3|Lab-M4.3]]
+>- [[lab-p2-2|Lab-P2.2]]
+>- [[documentation|Документація лабораторій]]
+>- [[ils32c1|Інцидент ils32c1]]
 
 ### Персонажі
-- [Ханна](/characters/hanna.md)
-- [Амадей](/characters/amadeus.md)
->[!gm]- [Любисток](/characters/lyubystok.md)
->[!gm]- [Доктор Крюк](/characters/kryuk.md)
+- [[hanna|Ханна]]
+- [[amadeus|Амадей]]
+>[!gm]- [[lyubystok|Любисток]]
+>[!gm]- [[kryuk|Доктор Крюк]]
+>[!gm]- [[strohaim|Штробайм]]
 
 ### Екологія та народи
->[!gm]- [Грибниця](/ecology/mycelium.md)
->[!gm]- [Лісові ельфи](/peoples/forest-elves.md)
+- [[mycelium|Грибниця]]
+- [[forest-elves|Лісові ельфи]]
 
 ### Богини
-- [Ніка](/deities/nika.md)
+- [[nika|Ніка]]
 
 ### Концепти
-- [Життєва енергія](/concepts/life-energy.md)
-- [Вигорілі поля](burnt-fields.md)
-- [60-річна війна](/history/sixty-year-war.md)
+- [[life-energy|Життєва енергія]]
+- [[burnt-fields|Вигорілі поля]]
+- [[sixty-year-war|60-річна війна]]
 
 ---
 
