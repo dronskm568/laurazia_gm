@@ -3,6 +3,9 @@ title: Інцидент ils32c1
 tags: [incident, black-mana-laboratory]
 status: draft
 source: author
+public_sections:
+  - Що сталося
+  - Наслідки
 ---
 
 **ils32c1** — перший зафіксований інцидент у [[lab-s3-2|Lab-S3.2]]. 

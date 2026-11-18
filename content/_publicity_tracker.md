@@ -24,8 +24,9 @@ gm/magic-system/satiated-mana.md | ✅ | players/magic-system/satiated-mana.md
 gm/magic-system/black-mana-overchannel.md | ❌ |
 gm/magic-system/low-life-energy-immunity.md | ✅ | players/magic-system/low-life-energy-immunity.md
 gm/magic-system/soil-purification-method.md | ❌ |
-gm/magic-system/territory-contamination-immunity.md | ❌ |
+gm/magic-system/territory-contamination-immunity.md | ✅ | players/magic-system/territory-contamination-immunity.md
 gm/magic-system/life-energy-engine.md | ❌ |
+gm/ecology/mana-zombie.md | ✅ | players/ecology/mana-zombie.md
 
 ---
 
@@ -37,9 +38,8 @@ gm/concepts/life-energy.md | ⚡ | players/concepts/life-energy.md
 
 ## Екологія
 
-gm/ecology/mana-zombie.md | ❌ |
 gm/ecology/mycelium.md | ⚡ | players/ecology/mycelium.md
-gm/ecology/life-energy-low-criteria.md | ✅ |
+gm/ecology/life-energy-low-criteria.md | ✅ | players/ecology/life-energy-low-criteria.md
 
 ---
 
@@ -65,12 +65,13 @@ gm/history/twenty-one-years-of-black-mana.md | ❌ |
 
 ## Лабораторії
 
-gm/facilities/lab-s3-2.md | ⚡ |
-gm/facilities/lab-m4-3.md | ⚡ |
-gm/facilities/lab-p2-2.md | ⚡ |
-gm/facilities/scientists.md | ⚡ |
-gm/facilities/documentation.md | ✅ |
-gm/facilities/laboratory-supply-protocol | ✅ |
+gm/facilities/lab-s3-2.md | ⚡ | players/facilities/lab-s3-2.md
+gm/facilities/lab-m4-3.md | ⚡ | players/facilities/lab-m4-3.md
+gm/facilities/lab-p2-2.md | ⚡ | players/facilities/lab-p2-2.md
+gm/facilities/ils32c1.md | ⚡ | players/facilities/ils32c1.md
+gm/facilities/scientists.md | ⚡ | players/facilities/scientists.md
+gm/facilities/documentation.md | ✅ | players/facilities/documentation.md
+gm/facilities/laboratory-supply-protocol.md | ✅ | players/facilities/laboratory-supply-protocol.md
 
 ---
 
@@ -84,9 +85,9 @@ gm/characters/san-shu.md | ✅ | players/characters/san-shu.md
 gm/characters/minerva.md | ✅ | players/characters/minerva.md
 gm/characters/Sally.md | ✅ | players/characters/Sally.md
 gm/characters/сhloe.md | ✅ | players/characters/сhloe.md
-gm/characters/lyubystok.md | ✅ |
-gm/characters/kryuk.md | ✅ |
-gm/characters/strobyem.md | ❌ |
+gm/characters/lyubystok.md | ⚡ | players/characters/lyubystok.md
+gm/characters/kryuk.md | ✅ | players/characters/kryuk.md
+gm/characters/strohaim.md | ❌ |
 
 ---
 
@@ -120,11 +121,11 @@ gm/LOG.md | ❌ |
 
 | Категорія | Кількість файлів (GM) |
 | --------- | ----------------------- |
-| ❌ GM Only | 31                      |
-| ⚡ Partial | 2                       |
-| ✅ Public  | 16                      |
+| ❌ GM Only | 9                       |
+| ⚡ Partial | 12                      |
+| ✅ Public  | 28                      |
 
-**Загальна кількість GM файлів:** 48
+**Загальна кількість GM файлів:** 49
 
 **Файли без відстеження:** 0
 

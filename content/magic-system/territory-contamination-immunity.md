@@ -3,6 +3,7 @@ title: Територійна імунітет до чорної мани
 tags: [magic, immunity, concept, black-mana]
 status: draft
 source: sources/lavrasia-original.docx
+public_sections: all
 ---
 
 Чорна мана має переваги проти істот з великою життєвою енергією. Вона швидше знищує таких істот.
