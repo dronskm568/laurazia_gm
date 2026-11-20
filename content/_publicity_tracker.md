@@ -11,8 +11,8 @@ gm/geography/omniport.md | ✅ | players/geography/omniport.md
 gm/geography/terikon.md | ✅ | players/geography/terikon.md
 gm/geography/knokenbach.md | ✅ | players/geography/knokenbach.md
 gm/ecology/burnt-fields.md | ⚡ | players/geography/burnt-fields.md
+gm/geography/southern-forest.md | ⚡ | players/geography/southern-forest.md
 gm/geography/distant_lands.md | ✅ | players/geography/distant_lands.md
-gm/geography/forest.md | ✅ | players/geography/forest.md
 gm/geography/in-glade.md | ✅ | players/geography/in-glade.md
 
 ---
